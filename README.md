@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **pjh09050/pjh09050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
+<a href="https://github.com/pjh09050">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pjh09050" />
+</a>
+<a href="https://github.com/pjh09050">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&langs_count=3" />
+</a>
