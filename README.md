@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/pjh09050">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&langs_count=3" />
 </a>
-![](https://github.com/koptimizer/koptimizer/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/pjh09050/pjh09050/blob/output/github-contribution-grid-snake.svg)
