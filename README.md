@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Jinhwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pjh09050&theme=high-contrast)]
+![Jinhwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pjh09050&theme=high-contrast)
 
 </div>
 
