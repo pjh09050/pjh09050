@@ -4,7 +4,6 @@
 
 ![Park Jinhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjh09050&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&hide=Makefile&layout=compact&theme=dark)
-![Park Jinhwan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=pjh09050&theme=high-contrast)
 
 </div>
 
