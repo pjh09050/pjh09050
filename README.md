@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Park Jinhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjh09050&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&hide=Makefile&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&hide=Makefile&layout=compact&theme=dark)](http://github.com/pjh09050/github-readme-stats)
 
 
 <br>
