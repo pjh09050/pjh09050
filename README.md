@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Park Jinhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjh09050&hide_progress=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&hide=Makefile&theme=dark)
+![Park Jinhwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjh09050&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjh09050&hide=Makefile&hide_progress=true&theme=dark)
 
 
 <br>
